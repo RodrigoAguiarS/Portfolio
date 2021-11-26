@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 432195539,
+      "name": "Portfolio",
+      "owner": {
+        "login": "RodrigoAguiarS",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86214343?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/RodrigoAguiarS/Portfolio",
+      "description": "Criando um App para Apresentar seu Portfólio do GitHub"
+    },
+    {
+      "id": 424830369,
+      "name": "AppGasolinaAlcool",
+      "owner": {
+        "login": "RodrigoAguiarS",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86214343?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/RodrigoAguiarS/AppGasolinaAlcool",
+      "description": "Aplicativo de Gasolina ou Alcool"
+    },
+    {
+      "id": 416506681,
+      "name": "GerenciadorDeLivros",
+      "owner": {
+        "login": "RodrigoAguiarS",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86214343?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Java",
+      "html_url": "https://github.com/RodrigoAguiarS/AppGasolinaAlcool",
+      "description": "Projeto Supervisionado do Curso de Programador de Dispositivos Móveis IMD"
+    },
+    {
+      "id": 428861177,
+      "name": "HeroesApi",
+      "owner": {
+        "login": "RodrigoAguiarS",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86214343?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Java",
+      "html_url": "https://github.com/RodrigoAguiarS/HeroesApi",
+      "description": "Criando seu gerenciador de super heróis da Marvel e da DC em uma API reativa com Spring Boot"
+    },
+    {
+      "id": 414810617,
+      "name": "CoinConverter",
+      "owner": {
+        "login": "RodrigoAguiarS",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86214343?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/RodrigoAguiarS/CoinConverter",
+      "description": "Criando um aplicativo para conversão de moedas e câmbio"
+    }
+  ]
+}

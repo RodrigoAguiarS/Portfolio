@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Rodri/AndroidStudioProjects/Portflio/app/src/main/res/layout/activity_main.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/Rodri/AndroidStudioProjects/Portflio/app/src/main/res/drawable/ic_stars.xml" value="0.28854166666666664" />
+        <entry key="..\:/Users/Rodri/AndroidStudioProjects/Portflio/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Rodri/AndroidStudioProjects/Portflio/app/src/main/res/layout/item_repo.xml" value="0.27239583333333334" />
       </map>
     </option>
   </component>

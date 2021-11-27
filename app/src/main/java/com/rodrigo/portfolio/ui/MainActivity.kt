@@ -1,16 +1,16 @@
-package com.rodrigo.portflio.ui
+package com.rodrigo.portfolio.ui
 
 import android.os.Bundle
 import android.util.Log
 import android.view.Menu
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.SearchView
-import com.rodrigo.portflio.R
-import com.rodrigo.portflio.core.createDialog
-import com.rodrigo.portflio.core.createProgressDialog
-import com.rodrigo.portflio.core.hideSoftKeyboard
-import com.rodrigo.portflio.presentation.MainViewModel
-import com.rodrigo.portflio.databinding.ActivityMainBinding
+import com.rodrigo.portfolio.R
+import com.rodrigo.portfolio.core.createDialog
+import com.rodrigo.portfolio.core.createProgressDialog
+import com.rodrigo.portfolio.core.hideSoftKeyboard
+import com.rodrigo.portfolio.presentation.MainViewModel
+import com.rodrigo.portfolio.databinding.ActivityMainBinding
 import org.koin.androidx.viewmodel.ext.android.viewModel
 
 class MainActivity : AppCompatActivity(), SearchView.OnQueryTextListener {

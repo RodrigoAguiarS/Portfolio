@@ -1,4 +1,4 @@
-package com.rodrigo.portflio.data.di
+package com.rodrigo.portfolio.data.di
 
 import android.util.Log
 import com.google.gson.GsonBuilder
@@ -9,9 +9,9 @@ import org.koin.core.module.Module
 import org.koin.dsl.module
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
-import com.rodrigo.portflio.data.repositories.RepoRepository
-import com.rodrigo.portflio.data.repositories.RepoRepositoryImpl
-import com.rodrigo.portflio.data.services.GitHubService
+import com.rodrigo.portfolio.data.repositories.RepoRepository
+import com.rodrigo.portfolio.data.repositories.RepoRepositoryImpl
+import com.rodrigo.portfolio.data.services.GitHubService
 
 
 object DataModule {

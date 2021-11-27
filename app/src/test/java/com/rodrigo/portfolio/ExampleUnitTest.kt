@@ -1,4 +1,4 @@
-package com.rodrigo.portflio
+package com.rodrigo.portfolio
 
 import org.junit.Test
 
